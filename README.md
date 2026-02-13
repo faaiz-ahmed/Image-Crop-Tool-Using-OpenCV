@@ -25,13 +25,13 @@ Crop your images in a few clicks without opening heavy software. Perfect for qui
 # 📸 Screenshots
 
 **1. Main GUI:**  
-![Main GUI](screenshots/gui.png)
+![Main GUI](screenshots/gui.PNG)
 
 **2. Drawing Rectangle:**  
-![Drawing Rectangle](screenshots/drawing.png)
+![Drawing Rectangle](screenshots/drawing.PNG)
 
 **3. Cropped Image Preview:**  
-![Cropped Image](screenshots/cropped.png)
+![Cropped Image](screenshots/cropped.PNG)
 
 ---
 
